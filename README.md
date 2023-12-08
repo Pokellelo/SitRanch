@@ -1,2 +1,2 @@
 # SitRanch
-Just a desktop app to manage my parents ranch, such as inventory, schedules, etc, etc
+Just a desktop app made in Rust to manage my parents ranch, such as inventory, schedules, etc, etc
